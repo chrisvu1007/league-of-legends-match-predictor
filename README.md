@@ -60,10 +60,8 @@ Side and first pick are related, so I also looked at the win rate for each combi
 
 | Side | Picked first | Did not pick first |
 | --- | --- | --- |
-| Blue | ? | ? |
-| Red | ? | ? |
-
-*(Fill in these four cells with the values from your pivot table.)*
+| Blue | 0.52 | 0.48 |
+| Red | 0.53 | 0.47 |
 
 Reading across the rows shows whether the side advantage still holds once you account for who picked first.
 
