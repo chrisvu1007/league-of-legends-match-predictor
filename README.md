@@ -56,6 +56,8 @@ Blue is a little above 50% and Red is a little below. It's a small gap, which is
 
 Side and first pick are related, so I also looked at the win rate for each combination of side and whether the team picked first.
 
+<iframe src="assets/side_firstpick_winrate.html" width="100%" height="500" style="border:0;"></iframe>
+
 | Side | Picked first | Did not pick first |
 | --- | --- | --- |
 | Blue | ? | ? |
